@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Safety</string>
+    <string name="enter_phone_number">ENTER PHONE NUMBER</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="view">VIEW</string>
+    <string name="to_delete_a_number_enter_the_number_and_press_on_delete_button">TO DELETE A NUMBER ENTER THE NUMBER AND PRESS ON DELETE BUTTON</string>
+</resources>
