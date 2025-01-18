@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document Summarizer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Document Summarizer</h1>
+        <div id="dropArea" class="drop-area">
+            <p>Drag and drop your PDF or text file here</p>
+            <input type="file" id="fileInput" accept=".txt,.pdf" style="display: none;">
+        </div>
+        <button id="summarizeBtn" style="display: none;">Summarize</button>
+        <h2>Summary:</h2>
+        <p id="summaryOutput">The summary will appear here...</p>
+    </div>
+    
+
+  <script src="script.js"></script>
+</body>
+</html>
